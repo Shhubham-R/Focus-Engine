@@ -1,6 +1,7 @@
 # Focus Engine
 
-Focus Engine is a simple Windows tool that blocks selected websites at system level for a specified number of hours and automatically unblocks them later
+Focus Engine is a simple Windows tool that blocks selected websites at system level for a specified number of hours and automatically unblocks them later or after restart
+
 
 ## Features
  - Block any website/domain
